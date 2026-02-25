@@ -1,0 +1,1 @@
+{"containerPort": 3000,"resourceLimit": {"cpu": 0.25,"mem": 0.5},"autoScaling": {"minReplicas": 0,"maxReplicas": 10,"policyType": "cpu","policyThreshold": 80},"envVariables": [],"logsConfig": {"logType": "stdout","stdoutConfig": {"maxAge": 7}}}
